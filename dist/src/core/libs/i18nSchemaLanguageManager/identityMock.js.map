@@ -1,0 +1,1 @@
+{"version":3,"file":"identityMock.js","sourceRoot":"","sources":["../../../../../src/core/libs/i18nSchemaLanguageManager/identityMock.ts"],"names":[],"mappings":";;AAAa,QAAA,YAAY,GAAG;IAC1B,OAAO,EAAE,kEAAkE;IAC3E,IAAI,EAAE,WAAW;IACjB,WAAW,EAAE,SAAS;IACtB,WAAW,EAAE,oBAAoB;IACjC,IAAI,EAAE,CAAC,EAAE,QAAQ,EAAE,OAAO,EAAE,WAAW,EAAE,eAAe,EAAE,CAAC;CAC5D,CAAC"}

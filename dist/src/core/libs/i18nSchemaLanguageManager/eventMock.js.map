@@ -1,0 +1,1 @@
+{"version":3,"file":"eventMock.js","sourceRoot":"","sources":["../../../../../src/core/libs/i18nSchemaLanguageManager/eventMock.ts"],"names":[],"mappings":";;AAAa,QAAA,SAAS,GAAG;IACvB,OAAO,EAAE;QACP,IAAI,EAAE;YACJ,OAAO,EAAE,0DAA0D;YACnE,SAAS,EAAE,SAAS;YACpB,QAAQ,EAAE,OAAO;YACjB,KAAK,EAAE,eAAe;YACtB,IAAI,EAAE,EACL;SACF;KACF;CACF,CAAC"}

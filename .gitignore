@@ -79,7 +79,6 @@ TEST-results.xml
 
 .idea/
 doc/
-dist/
 browser/
 node/
 @rerun.txt
